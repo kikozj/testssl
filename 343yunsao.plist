@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://test.weisanyun.cn:8080/WeiyingManager/apk/343/21/app/YunSao6_25_2.ipa</string>
+					<string>http://test.weisanyun.cn:8080/WeiyingManager/apk/343/21/app/YunSao6_25_3.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -35,7 +35,7 @@
 				<key>bundle-identifier</key>
 				<string>com.shanger.yunsao</string>
 				<key>bundle-version</key>
-				<string>1.0.6</string>
+				<string>1.0.7</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
