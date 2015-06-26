@@ -33,15 +33,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.shanger.yunsao</string>
+				<string>com.adouming.wehua.aixiaoping</string>
 				<key>bundle-version</key>
-				<string>1.1</string>
+				<string>1.5</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>云扫</string>
+				<string>爱小屏</string>
 				<key>title</key>
-				<string>云扫</string>
+				<string>爱小屏</string>
 			</dict>
 		</dict>
 	</array>
